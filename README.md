@@ -148,6 +148,7 @@ G F <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 <h3> Output</h3>
+
 ![Screenshot 2025-04-27 122854](https://github.com/user-attachments/assets/f222e78c-43cb-477c-8395-475a3e2cf6b6)
 
 <hr>
